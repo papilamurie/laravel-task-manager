@@ -6,7 +6,7 @@ A modern task management application built with Laravel 12, featuring user authe
 ![PHP](https://img.shields.io/badge/PHP-8.3-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🚀 Features
+## 🚀 Features 
 
 - ✅ User Authentication (Register, Login, Logout)
 - ✅ Create, Read, Update, Delete Tasks
