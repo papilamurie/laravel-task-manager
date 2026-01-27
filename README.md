@@ -26,16 +26,7 @@ A modern task management application built with Laravel 12, featuring user authe
 - **Frontend:** Blade Templates + Tailwind CSS
 - **PHP Version:** 8.3+
 
-## 📸 Screenshots
 
-### Task List
-![Task List](screenshots/task-list.png)
-
-### Create Task
-![Create Task](screenshots/create-task.png)
-
-### Task Details
-![Task Details](screenshots/task-details.png)
 
 ## 📦 Installation
 
