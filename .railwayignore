@@ -1,0 +1,8 @@
+node_modules/
+tests/
+.git/
+.github/
+*.md
+.editorconfig
+.env.example
+phpunit.xml
